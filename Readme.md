@@ -1,2 +1,2 @@
-GitHub e Git
+GitHub e Git para iniciantes
 
